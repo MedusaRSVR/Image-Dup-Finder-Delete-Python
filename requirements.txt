@@ -1,0 +1,4 @@
+# Core libraries required for the duplicate‑finder GUI
+PyQt5>=5.15
+Pillow>=10.0.0
+imagehash>=4.3
