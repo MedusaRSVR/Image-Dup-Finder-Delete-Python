@@ -1,7 +1,7 @@
 # Image-Dup-Finder-Delete-Python
 With this tool you can select a folder and let it find duplicate images within it, mark and delete them. It also takes sub-folders into consideration.
 
-Created with Ollama and the NeuralQuantum-Coder
+Created with Ollama and the NeuralQuantum-Coder LLM
 https://ollama.com/NeuroEquality/neuralquantum-coder
 
 <img width="966" height="854" alt="DupFinderr" src="https://github.com/user-attachments/assets/7a8f4ee1-39b8-4ea4-a004-36726b1c1fe1" />
