@@ -27,7 +27,9 @@ You've been warned.
 Why i created it?
 I have ACDSee installed and it's Duplicate-Finder isn't as powerfull as i wish it would.
 I have tons of images on my pc due to the excessive use of Stable Diffusion Checkpoint-/LoRa-Training and i wanted to have a good tool to get rid of the duplicates.
-That's why... Have fun...
+That's why... And i wanted to know how to work with a Coding-LLM.
+
+Have fun...
 
 - Tested with folders that contained more than 100k images.
 - Please report any bugs!
