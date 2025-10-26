@@ -4,13 +4,18 @@ With this tool you can select a folder and let it find duplicate images within i
 Created with Ollama and the NeuralQuantum-Coder LLM
 https://ollama.com/NeuroEquality/neuralquantum-coder
 
+
 <img width="966" height="854" alt="DupFinderr" src="https://github.com/user-attachments/assets/7a8f4ee1-39b8-4ea4-a004-36726b1c1fe1" />
+
 
 
 Based on Python 3.10
 1. Clone Repository
 2. Run setup_dedup.bat to create a VENV and install the requirements.txt
 3. Run run_dedup.bat
+
+I don't have Linux but I provided scripts to install and launch the tool.
+Haven't tested them!
 
 It uses a Image-HASH to find duplicates.
 
