@@ -30,3 +30,4 @@ I have tons of images on my pc due to the excessive use of Stable Diffusion Chec
 That's why... Have fun...
 
 *Tested with folders that contained more than 100k images.
+*Please report any bugs!
