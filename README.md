@@ -7,7 +7,7 @@ https://ollama.com/NeuroEquality/neuralquantum-coder
 <img width="966" height="854" alt="DupFinderr" src="https://github.com/user-attachments/assets/7a8f4ee1-39b8-4ea4-a004-36726b1c1fe1" />
 
 
-Based on Python 3.1
+Based on Python 3.10
 1. Clone Repository
 2. Run setup_dedup.bat to create a VENV and install the requirements.txt
 3. Run run_dedup.bat
