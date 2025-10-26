@@ -12,7 +12,7 @@ https://ollama.com/NeuroEquality/neuralquantum-coder
 
 It uses a Image-HASH to find duplicates.
 
-All duplicate immages will have a different color
+All duplicate images will have a different color
 - green = first duplicate
 - yellow = second duplicate
 - orange = third duplicate
