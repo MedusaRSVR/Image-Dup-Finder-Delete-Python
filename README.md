@@ -4,6 +4,8 @@ With this tool you can select a folder and let it find duplicate images within i
 Created with Ollama and the NeuralQuantum-Coder
 https://ollama.com/NeuroEquality/neuralquantum-coder
 
+https://github.com/MedusaRSVR/Image-Dup-Finder-Delete-Python/blob/main/DupFinderr.png
+
 1. Clone Repository
 2. Run setup_dedup.bat to create a VENV and install the requirements.txt
 3. Run run_dedup.bat
