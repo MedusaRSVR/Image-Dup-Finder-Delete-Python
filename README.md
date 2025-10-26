@@ -25,7 +25,7 @@ It doesn't use the Recycle Bin. It just delete the image-duplicates.
 You've been warned.
 
 Why i created it?
-I have ACDSee installed and it's Duplicate-Finder isn't as powerfull as i wished it would.
+I have ACDSee installed and it's Duplicate-Finder isn't as powerfull as i wish it would.
 I have tons of images on my pc due to the excessive use of Stable Diffusion Checkpoint-/LoRa-Training and i wanted to have a good tool to get rid of the duplicates.
 That's why... Have fun...
 
