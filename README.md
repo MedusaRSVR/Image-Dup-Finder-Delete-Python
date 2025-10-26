@@ -20,7 +20,7 @@ All duplicate images will have a different color
 
 I didn't add more colors. Every other duplicate found will have a plain gray.
 
-On top of the UI you can select the checkbox related to the color you want to mark and delete. Once selected click on "Delete Selected".
+On top of the UI you can select the checkbox related to the color you want to mark and delete. You can have multiple selections. Once selected click on "Delete Selected".
 It doesn't use the Recycle Bin. It just delete the image-duplicates.
 You've been warned.
 
