@@ -10,7 +10,7 @@ https://ollama.com/NeuroEquality/neuralquantum-coder
 2. Run setup_dedup.bat to create a VENV and install the requirements.txt
 3. Run run_dedup.bat
 
-It uses 
+It uses a Image-HASH to find duplicates.
 
 All duplicate immages will have a different color
 - green = first duplicate
